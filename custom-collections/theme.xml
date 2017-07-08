@@ -1,0 +1,14 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+
+	<view name="system">
+                <image name="systemsnap" extra="true">
+                   <origin>0 0</origin>
+                   <pos>0.147 0.15</pos>
+                   <maxSize>0.8 0.7</maxSize>
+                   <path>./_inc/systemsnap.png</path>
+                </image>
+	</view>
+
+</theme>
